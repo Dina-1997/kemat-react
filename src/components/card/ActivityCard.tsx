@@ -1,4 +1,4 @@
-import type { IActivity } from "../../interface";
+
 import { FaStar, FaClock } from "react-icons/fa";
 import Button from "../Ui/Button";
 
