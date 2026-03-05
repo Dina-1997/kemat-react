@@ -1,4 +1,4 @@
-import type { IDestinationCard } from "../../interface";
+
 import Image from "../Ui/Image";
 
 const DestinationCard = ({ src, alt, title, tours }: IDestinationCard) => {
