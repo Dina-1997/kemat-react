@@ -1,4 +1,4 @@
-import type { IBlogCard } from "../../interface";
+
 
 interface IProps {
     blog: IBlogCard;
